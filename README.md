@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nischal and I'm a Industrial Engineering and Management student, currently in Germany.</h2>
+<h2 align="left">Hi 👋! My name is Nischal, and I'm an MSc in Management and Technology student, currently enrolled at TUM.</h2>
 
 ###
 
