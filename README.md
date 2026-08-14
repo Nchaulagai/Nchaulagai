@@ -43,8 +43,6 @@ I sit between **Supply Chain and engineering**. My background is Industrial Engi
 </div>
 -->
 
----
-
 ## 🛠️ Tech stack
 
 **Data & modelling**
