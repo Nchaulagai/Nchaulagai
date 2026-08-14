@@ -32,26 +32,6 @@ I sit between **Supply Chain and engineering**. My background is Industrial Engi
 - 🌍 Nepal → Munich · 🇬🇧🇳🇵🇩🇪 English / Nepali / German (A2)
 
 ---
-
-## 🚀 Featured work
-
-<!-- Replace REPO_NAME with real repo names, or delete the pin cards and keep just the table -->
-
-### ⚡ Mauritius Energy System Model (2025–2050)
-Techno-economic optimisation of the Mauritian electricity grid using **URBS** (linear programming, Pyomo-based). Built the full input database from scratch — 11 sheets covering sites, commodities, processes, storage, transmission, demand and intermittent supply — sourced against IRENA, IEA, CEB, Statistics Mauritius and BNEF data.
-
-- Synthesised an **8,760-hour demand profile** with `pandas` / `numpy`: monthly seasonality, weekday vs. weekend shapes, morning ramp + midday and evening peaks, calibrated to 3,350 GWh/yr (~524 MW peak, 0.73 load factor)
-- Ran and compared four scenarios — 2026 Reference, 2030 Target, 2030 Battery Innovation, 2050 CO₂-Neutral
-- Validated results against the energy balance `Generation + Net Storage = Demand + Curtailment` (residual ~1e-10)
-- Derived CO₂ output ratios per process, modelled BESS sizing, bagasse and waste-to-energy pathways
-
-`Python` `pandas` `NumPy` `openpyxl` `URBS` `linear programming` `energy systems`
-
-### 💰 Financial Modelling Utilities
-Loan refinancing cost-benefit analysis in Python — EMI comparison, amortisation schedules, total-outgo modelling across differing rates and tenures, break-even return thresholds for redeploying capital. Plus templated Excel builders (inventory master with formula-driven columns, reference sheets, frozen panes) generated with `openpyxl`.
-
-`Python` `openpyxl` `financial modelling` `Excel`
-
 <!--
 <div align="center">
   <a href="https://github.com/Nchaulagai/REPO_NAME">
