@@ -47,11 +47,6 @@ Techno-economic optimisation of the Mauritian electricity grid using **URBS** (l
 
 `Python` `pandas` `NumPy` `openpyxl` `URBS` `linear programming` `energy systems`
 
-### 🇩🇪 German Pathway — A1 Course Generator
-A 30-day Goethe A1 curriculum delivered as **30 programmatically generated PowerPoint decks** (7 slides each: agenda, warm-up, grammar table, choral-repetition examples, drills with answers in speaker notes, Nico's Weg segment, homework). Consistent branded styling applied via code rather than by hand.
-
-`python-pptx` `pptxgenjs` `automation` `instructional design`
-
 ### 💰 Financial Modelling Utilities
 Loan refinancing cost-benefit analysis in Python — EMI comparison, amortisation schedules, total-outgo modelling across differing rates and tenures, break-even return thresholds for redeploying capital. Plus templated Excel builders (inventory master with formula-driven columns, reference sheets, frozen panes) generated with `openpyxl`.
 
